@@ -17,5 +17,5 @@ Step 3: CREATE A TOPIC TO STORE YOUR EVENTS
 Step 4: Run The SprintBoot Application 
 Step 5: To Test XmlContent Access this Url in browser : http://localhost:8081/kafka/produce/xmlContent
         To Test StringContent access this url in browser : http://localhost:8081/kafka/produce/stringmessage?msg="Hello"
-        Observe Console or logger.
+        Observe Console or logger. 
   
